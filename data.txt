@@ -1,0 +1,10 @@
+Ahmet,DEMIR,ahmetdemir,pass123,1500.0
+Meryem,OZTURK,meryemozturk,1234abc,900.75
+Emre,SEN,emresen,123asd,1000.5
+Selin,CAKIR,selincakir,abcd5678,750.25
+Burak,SAHIN,buraksahin,9876qw,500.0
+Elif,OZDEMIR,elifozdemir,qwe1234,300.0
+Berk,CELIK,berkcelik,123qwerty,2000.0
+Aylin,ARSLAN,aylinarslan,hello123,1200.5
+Can,AYDIN,canaydin,passw0rd,180.0
+Fatma,DOGAN,fatmadogan,1234pwrd,650.0
